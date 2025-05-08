@@ -70,3 +70,9 @@ source = "Option"
 target = "Tanlov"
 description = ""
 pronunciation_uz = ""
+
+[[translations]]
+source = "Scope"
+target = "Ko‘lam"
+description = ""
+pronunciation_uz = "skoup"
